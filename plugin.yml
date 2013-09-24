@@ -1,0 +1,7 @@
+name: cfHideDeathMsg
+main: ru.cronfire.cfHideDeathMsg.cfHideDeathMsg
+version: 1.1
+description: Simple, easy, and intuitive nothing.Really, hide death messages.
+authors: [Zeluboba, toxuin]
+maintainer: Zeluboba
+website: http://cronfire.ru/
